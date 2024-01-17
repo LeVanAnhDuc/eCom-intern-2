@@ -1,0 +1,26 @@
+{
+    "register": "Đăng kí",
+
+    "enterEmail": "Nhập email",
+    "emailIsRequired": "Hiện chưa nhập tên tài khoản",
+    "emailIsValidate": "Email không đúng định dạng",
+    "passwordIsRequired": "Hiện chưa nhập mật khẩu",
+    "enterPassword": "Nhập mật khẩu",
+    "passwordLeast6": "Mật khẩu lớn hơn 6 kí tư",
+    "passwordMost12": "Mật khẩu nhỏ hơn 12 kí tư",
+    "enterUsername": "Nhập tên tài khoản",
+    "usernameIsRequired": "Hiện chưa nhập tên tài khoản",
+    "enterFullName": "Nhập họ và tên",
+    "fullNameIsRequired": "Hiện chưa nhập họ và tên",
+
+    "loginNow": "Đăng nhập ngay",
+    "alreadyAccount": "Đã có tài khoản",
+    "signIn": "Đăng nhập",
+
+    "registerSuccessful": "Đăng kí thành công",
+    "notImplemented": "Không được thực hiện",
+    "registerFailed": "Đăng kí thất bại",
+    "loginSuccessful": "Đăng nhập thành công",
+    "unauthorized": "Không được phép",
+    "loginFailed": "Đăng nhập thất bại"
+}

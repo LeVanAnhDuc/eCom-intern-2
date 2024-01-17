@@ -1,0 +1,17 @@
+{
+    "listProduct": "List Product",
+    "addNew": "Add Product New",
+    "SortType": "Sort Type",
+    "sortBy": "Sort By",
+    "notFilter": "None",
+    "price": "Price",
+    "name": "Name",
+    "createAt": "Create At",
+    "active": "Active",
+    "unActive": "Unactive",
+    "filter": "Filter",
+    "noProducts": "Hix. No products. Can you try turning off the condition filter and searching again?",
+    "placeholder": "Search for the product you need...",
+    "description": "Description",
+    "status": "Status"
+}

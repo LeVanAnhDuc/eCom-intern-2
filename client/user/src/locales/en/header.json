@@ -1,0 +1,13 @@
+{
+    "product": "Product",
+    "cart": "Cart",
+    "wishList": "Wish List",
+    "myAccount": "My Account",
+    "purchaseOrder": "Purchase Order",
+    "logOut": "Log Out",
+    "register": "Register",
+    "login": "Login",
+    "navigation": "Navigation",
+    "placeholder": "Search for the product you need...",
+    "titleButton": "Search"
+}

@@ -1,0 +1,16 @@
+{
+    "freeShipping": "Miễn phí vận chuyển",
+    "applyVoucher": "Áp dụng cho đơn đặt hàng từ 5.000$ VNĐ trở lên.",
+    "seeDetails": "Xem chi tiết",
+    "product": "Sản phẩm",
+    "quantity": "Số lượng",
+    "price": "Giá",
+    "totalCost": "Tổng tiền",
+    "totalAmount": "Phí vận chuyển",
+    "transportFee": "Thành tiền",
+    "checkOut": "Thanh toán",
+    "cart": "Giỏ hàng",
+    "noProductInCart": "Hiện không có sản phẩm",
+    "listProduct": "Danh sách sản phẩm",
+    "deteleProduct": "Xóa sản phẩm khỏi giỏ hàng"
+}

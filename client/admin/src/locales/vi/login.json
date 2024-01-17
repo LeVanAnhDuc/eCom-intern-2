@@ -1,0 +1,16 @@
+{
+    "login": "Đăng nhập",
+    "enterUsername": "Nhập tên tài khoản",
+    "emailIsRequired": "Hiện chưa nhập tên tài khoản",
+    "passwordIsRequired": "Hiện chưa nhập mật khẩu",
+    "enterPassword": "Nhập mật khẩu",
+    "passwordLeast6": "Mật khẩu lớn hơn 6 kí tư",
+    "passwordMost12": "Mật khẩu nhỏ hơn 12 kí tư",
+    "forgotPassword": "Quên mật khẩu",
+    "noAccount": "Không có tài khoản",
+    "signUp": "Đăng kí",
+    "loginSuccessful": "Đăng nhập thành công",
+    "unauthorized": "Không được phép",
+    "loginFailed": "Đăng nhập thất bại",
+    "noAdmin":"Bạn phải không phải admin"
+}

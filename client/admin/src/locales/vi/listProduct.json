@@ -1,0 +1,17 @@
+{
+    "listProduct": "Danh sách sản phẩm",
+    "addNew": "Thêm sản phẩm mới",
+    "SortType": "Kiểu sắp xếp",
+    "sortBy": "Sắp xếp theo",
+    "notFilter": "Không lọc",
+    "price": "Giá",
+    "name": "Tên",
+    "createAt": "Ngày tạo",
+    "active": "Hoạt động",
+    "unActive": "Không hoạt động",
+    "Filter": "Lọc",
+    "noProducts": "Hix. Không có sản phẩm nào. Bạn thử tắt điều kiện lọc và tìm lại nhé?",
+    "placeholder": "Tìm kiếm sản phẩm bạn cần...",
+    "description": "Mô tả",
+    "status": "Trình trạng"
+}

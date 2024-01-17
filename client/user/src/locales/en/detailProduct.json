@@ -1,0 +1,14 @@
+{
+    "home": "Home",
+    "shop": "Shop",
+    "review": "Review",
+    "description": "Description",
+    "AddToCart": "Add to cart",
+    "productReviews": "PRODUCT REVIEWS",
+    "all": "All",
+    "star": "star",
+    "outOf": "out of",
+    "relatedProducts": "RELATED PRODUCTS",
+    "noProductRelated": "Hix. There are no related products!!",
+    "requireLogin": "You need to log in before liking a product"
+}

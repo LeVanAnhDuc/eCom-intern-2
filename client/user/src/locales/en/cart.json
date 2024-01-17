@@ -1,0 +1,16 @@
+{
+    "freeShipping": "Free shipping",
+    "applyVoucher": "Applicable to orders of $5,000 or more.",
+    "seeDetails": "See details",
+    "product": "Product",
+    "quantity": "Quantity",
+    "price": "Price",
+    "totalCost": "Total cost",
+    "totalAmount": "Total amount",
+    "totalDelivery": "Total delivery",
+    "checkOut": "Check out",
+    "cart": "Cart",
+    "noProductInCart": "There are currently no products",
+    "listProduct": "List Product",
+    "deteleProduct": "Remove product from the cart"
+}

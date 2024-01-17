@@ -1,0 +1,26 @@
+{
+    "register": "Register",
+
+    "enterEmail": "Enter email",
+    "emailIsRequired": "Email is required",
+    "emailIsValidate": "Email not valid",
+    "passwordIsRequired": "Password is required",
+    "enterPassword": "Enter password",
+    "passwordLeast6": "Password must be at least 6 digits",
+    "passwordMost12": "Password must be at most 12 digits",
+    "enterUsername": "Enter username",
+    "usernameIsRequired": "Username is required",
+    "enterFullName": "Enter fullname",
+    "fullNameIsRequired": "Fullname is required",
+
+    "loginNow": "Login now",
+    "alreadyAccount": "Already have an account",
+    "signIn": "Sign in",
+
+    "registerSuccessful": "Register successful",
+    "notImplemented": "Not Implemented",
+    "registerFailed": "Register failed",
+    "loginSuccessful": "Login successful",
+    "unauthorized": "Unauthorized",
+    "loginFailed": "Login failed"
+}

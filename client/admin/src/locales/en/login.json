@@ -1,0 +1,16 @@
+{
+    "login": "Login",
+    "enterUsername": "Enter username",
+    "usernameIsRequired": "Username is required",
+    "passwordIsRequired": "Password is required",
+    "enterPassword": "Enter password",
+    "passwordLeast6": "Password must be at least 6 digits",
+    "passwordMost12": "Password must be at most 12 digits",
+    "forgotPassword": "Forgot password",
+    "noAccount": "Don't have an account",
+    "signUp": "Sign Up",
+    "loginSuccessful": "Login successful",
+    "unauthorized": "Unauthorized",
+    "loginFailed": "Login failed",
+    "noAdmin": "You must not be an admin"
+}

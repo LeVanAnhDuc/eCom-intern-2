@@ -1,0 +1,13 @@
+{
+    "product": "Sản phẩm",
+    "cart": "Giỏ hàng",
+    "wishList": "Danh sách yêu thích",
+    "myAccount": "Tài khoản của tôi",
+    "purchaseOrder": "Đơn mua",
+    "logOut": "Đăng xuất",
+    "register": "Đăng kí",
+    "login": "Đăng nhập",
+    "navigation": "Điều hướng",
+    "placeholder": "Tìm kiếm sản phẩm bạn cần...",
+    "titleButton": "Tìm"
+}
